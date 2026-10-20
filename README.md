@@ -1,5 +1,5 @@
 # Sales & Profit Performance Dashboard 
-![](image/)
+![](image/Dashboard.png)
 ## Project Overview 
 This project uses Power BI to analyze sales and probability data for a fictional company ([link](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download?utm_source=chatgpt.com)). The goal is to transform raw fictional data into an interactive dashboard that helps users understand business performance across products, countries, customer segments and time periods.
 
